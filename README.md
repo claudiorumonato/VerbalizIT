@@ -9,6 +9,10 @@ Copy ffmpeg-amd64.exe under C:\<USER>\AppData\Local\Temp\jave\ffmpeg-amd64-3.5.0
 
 # Usage
 
+```
+verbalizit <filename.mp4> [filename.wav] [filename.txt]
+```
+
 Invoke the program passing the path to the input video.
 
 Optionally, you can specify the filename for generated audio e text files.
